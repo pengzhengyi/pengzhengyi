@@ -19,9 +19,11 @@ jobs:
           plugin_languages: yes
           plugin_languages_ignored: dockerfile
           plugin_habits: yes
+          plugin_habits_charts: yes
+          config_timezone: America/Los_Angeles
+          plugin_isocalendar: yes
           plugin_stars: yes
           plugin_lines: yes
           plugin_traffic: yes
-          plugin_projects: yes
-          plugin_skyline: yes
-          config_order: base.header, languages, habits, stars, lines, traffic, projects, skyline
+          plugin_topics: yes
+          plugin_repositories: yes
