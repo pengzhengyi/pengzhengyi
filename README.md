@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **pengzhengyi/pengzhengyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Metrics](https://github.com/pengzhengyi/pengzhengyi/blob/main/github-metrics.svg)
+![Metrics](https://github.com/pengzhengyi/pengzhengyi/blob/main/metrics.svg)
